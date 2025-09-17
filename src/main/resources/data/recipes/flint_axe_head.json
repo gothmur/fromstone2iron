@@ -1,4 +1,0 @@
-{ "type": "minecraft:crafting_shaped",
-  "pattern": ["F","F"],
-  "key": { "F": { "item": "minecraft:flint" } },
-  "result": { "item": "stone2steel:flint_axe_head", "count": 1 } }
