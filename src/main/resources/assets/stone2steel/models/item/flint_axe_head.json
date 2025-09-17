@@ -1,6 +1,2 @@
-{
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "stone2steel:item/flint_axe_head"
-  }
-}
+{ "parent": "minecraft:item/generated",
+  "textures": { "layer0": "stone2steel:item/flint_axe_head" } }
